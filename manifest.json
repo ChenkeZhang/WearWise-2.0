@@ -1,0 +1,16 @@
+{
+  "short_name": "SmartWear",
+  "name": "SmartWear AI Stylist",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4052/4052984.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f8fafc",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}

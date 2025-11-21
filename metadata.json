@@ -1,0 +1,7 @@
+{
+  "name": "WearWise 2.0",
+  "description": "An intelligent weather assistant that uses Gemini AI to analyze real-time weather data and provide personalized clothing advice, extreme weather alerts, and temperature fluctuation warnings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
